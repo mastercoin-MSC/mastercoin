@@ -12,3 +12,4 @@ These values can be treated like [Asimov's laws of robotics](http://en.wikipedia
 3. Transparency - we will seek to voluntarily broadcast the maximal amount of information we can to the public.
 4. Freedom - we will seek to maximize the freedom and rights enjoyed by any individual or group. 
 5. Dedication - Do. Or do not. [There is no try](https://www.youtube.com/watch?v=BQ4yd2W50No).
+6. Empathy - We will seek to understand and empathize with different views even when we disagree with them.
