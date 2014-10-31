@@ -3,7 +3,14 @@ DRAFT - Please treat the following as a proposal only until this document is app
 
 Pull requests welcome!
 
-After more than a year of operations, it's time to define our core values.
+After more than a year of operations, it's time to define our mission statement and core values.
+
+Mission Statement
+=================
+We make decentralized tools to empower your dream, build wealth, and replace every aspect of finance.
+
+Core Values
+===========
 The purpose of a core value document is to capture and communicate the reason for the existence of the Foundation.
 
 These values can be treated like [Asimov's laws of robotics](http://en.wikipedia.org/wiki/Three_Laws_of_Robotics). Each value is upheld except when it contradicts with a previous value.
