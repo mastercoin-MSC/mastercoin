@@ -1,9 +1,10 @@
+DRAFT - Please treat the following as a proposal only until this document is approved by the board and this line is deleted.
+
+
 Pull requests welcome!
 
 After more than a year of operations, it's time to define our core values.
 The purpose of a core value document is to capture and communicate the reason for the existence of the Foundation.
-
-Please treat the following as a proposal only until this document is approved by the board and this line is deleted.
 
 These values can be treated like [Asimov's laws of robotics](http://en.wikipedia.org/wiki/Three_Laws_of_Robotics). Each value is upheld except when it contradicts with a previous value.
 
