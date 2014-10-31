@@ -12,5 +12,6 @@ These values can be treated like [Asimov's laws of robotics](http://en.wikipedia
 2. [Radical Honesty](http://www.radicalhonesty.com/) - We will never lie (except to protect value #1).
 3. Transparency - We will seek to voluntarily broadcast the maximal amount of information we can to the public.
 4. Freedom - We will seek to maximize the freedom and rights enjoyed by any individual or group. 
-5. Dedication - Do. Or do not. [There is no try](https://www.youtube.com/watch?v=BQ4yd2W50No).
-6. Empathy - We will seek to understand and empathize with different views even when we disagree with them.
+5. Fearlessness - Realize that [Fear is the mind killer](http://www.goodreads.com/quotes/2-i-must-not-fear-fear-is-the-mind-killer-fear-is), and strive to make decisions not from a place of fear, but rather from understanding.
+6. Dedication - Do. Or do not. [There is no try](https://www.youtube.com/watch?v=BQ4yd2W50No).
+7. Empathy - We will seek to understand and empathize with different views even when we disagree with them.
