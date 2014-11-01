@@ -22,3 +22,4 @@ These values can be treated like [Asimov's laws of robotics](http://en.wikipedia
 5. Fearlessness - Realize that [Fear is the mind killer](http://www.goodreads.com/quotes/2-i-must-not-fear-fear-is-the-mind-killer-fear-is), and strive to make decisions not from a place of fear, but rather from understanding.
 6. Dedication - Do. Or do not. [There is no try](https://www.youtube.com/watch?v=BQ4yd2W50No).
 7. Empathy - We will seek to understand and empathize with different views even when we disagree with them.
+8. Safety - We strive to maintain an environment in which it is safe to be honest, criticize, ask for clarity or enhance.
